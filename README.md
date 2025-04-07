@@ -1,1 +1,1 @@
-# COL780_Computer_Vision
+# COL780_Computer_Vision_IITD
